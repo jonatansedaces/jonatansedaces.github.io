@@ -29,13 +29,16 @@ body{
 }
 
 
-}
-
-body{
+body{ 
     background: #069;
 }
 
 p{
     color: white;
+    text-align: center;
+}
+
+h2{
+    color: aqua;
     text-align: center;
 }
