@@ -33,12 +33,13 @@ body{
     background: #069;
 }
 
-p{
-    color: white;
-    text-align: center;
-}
 
 h2{
     
+    text-align: center;
+}
+
+p{
+    color: white;
     text-align: center;
 }
