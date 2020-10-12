@@ -49,5 +49,7 @@ h1{
 }
 
 li{
+    color: brown;
+    border: 0ch;
     text-align: center;
 }
